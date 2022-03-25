@@ -54771,7 +54771,7 @@ s=6
 return A.w(A.abw("baseUrl",a),$async$D2)
 case 6:$.eW().iL("apiUrl",a)
 if($.eW().gua()){A.b2("Authenticated")
-$.az().a7(0,t.x).a.gal().eo("custom_splash",null,t.X)}else{n=A.d(a)+"/api/method/frappe.integrations.oauth2.authorize?response_type=code&client_id=39708ce3c7&redirect_uri=https://mohitambi.github.io"
+$.az().a7(0,t.x).a.gal().eo("custom_splash",null,t.X)}else{n=A.d(a)+"/api/method/frappe.integrations.oauth2.authorize?response_type=code&client_id=39708ce3c7&redirect_uri=https://mohitambi.github.io/"
 window.location.href=n}q=1
 s=5
 break
@@ -54790,7 +54790,7 @@ var $async$pq=A.E(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:h=$.eW().gmz()+u.F
 g=A.aIl(null)
 f=t.N
-e=A.a4(["grant_type","authorization_code","client_id","39708ce3c7","code",a,"redirect_uri","https://mohitambi.github.io"],f,f)
+e=A.a4(["grant_type","authorization_code","client_id","39708ce3c7","code",a,"redirect_uri","https://mohitambi.github.io/"],f,f)
 A.b2(e)
 p=4
 j=t.z
