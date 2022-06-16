@@ -52021,7 +52021,7 @@ s=6
 return A.y(A.a93("baseUrl",a),$async$CM)
 case 6:$.eH().jm("apiUrl",a)
 if($.eH().gLD())A.rs(b,"/")
-else{n=A.d(a)+"/api/method/frappe.integrations.oauth2.authorize?response_type=code&client_id=3f7ba15dcb&redirect_uri=https://mohitambi.github.io/"
+else{n=A.d(a)+"/api/method/frappe.integrations.oauth2.authorize?response_type=code&client_id=3f7ba15dcb&redirect_uri=https://mohitambi.github.io"
 window.location.href=n}q=1
 s=5
 break
@@ -52039,7 +52039,7 @@ a41(a,b){var s=0,r=A.J(t.z),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f,e,d
 var $async$qS=A.K(function(c,a0){if(c===1){o=a0
 s=p}while(true)switch(s){case 0:g=$.eH().gmw()+u.F
 f=t.N
-e=A.X(["grant_type","authorization_code","client_id","3f7ba15dcb","code",a,"redirect_uri","https://mohitambi.github.io/"],f,f)
+e=A.X(["grant_type","authorization_code","client_id","3f7ba15dcb","code",a,"redirect_uri","https://mohitambi.github.io"],f,f)
 A.aP(e)
 p=4
 j=$.eM
